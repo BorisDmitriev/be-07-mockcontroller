@@ -1,0 +1,19 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "title": "Einkaufsliste",
+            "content": "Milch, Eier, Brot"
+        },
+        {
+            "id": 2,
+            "title": "Meeting Notizen",
+            "content": "Besprechung um 14:00 Uhr"
+        },
+        {
+            "id": 3,
+            "title": "Ideen für den Blog",
+            "content": "Neuer Artikel: Die Bedeutung von künstlicher Intelligenz"
+        }
+    ]
+}

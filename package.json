@@ -1,0 +1,30 @@
+{
+  "name": "be-mock-controller",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Let's say you're developing an application for an online notetaking service. You want to set up an API route to retrieve all existing notes. Use Express.js and the mock database technique with lowdb to implement this functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbertnikolajewskidci/BE-Mock-Controller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herbertnikolajewskidci/BE-Mock-Controller/issues"
+  },
+  "homepage": "https://github.com/herbertnikolajewskidci/BE-Mock-Controller#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jest": "^29.5.0",
+    "lowdb": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
